@@ -1,13 +1,13 @@
 {
     "name": "OpenMageModuleFostering/Auto_Reviews",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": " Auto approves product  reviews based on customer type.",
+    "description": "Auto approves product reviews based on customer type.",
     "authors": [
     {
-        "name": "Exinent Dev Team",
-        "email": "support@exinent.com"
+        "name": "Exinent ",
+        "email": "developer@exinent.com"
     }
 ],
     "suggest": {
