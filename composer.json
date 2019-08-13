@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Auto_Reviews",
+    "type": "magento-module",
+    "license": "Open-Software-License",
+    "homepage": "",
+    "description": " Auto approves product  reviews based on customer type.",
+    "authors": [
+    {
+        "name": "Exinent Dev Team",
+        "email": "support@exinent.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
