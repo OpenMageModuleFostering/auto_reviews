@@ -1,5 +1,5 @@
 <?php
-class Exinent_Autoapprovereviews_Model_Adminhtml_System_Config_Source_Customer_Group_Multiselect
+class Exinent_Autoapprovereviews_Model_Adminhtml_System_Multiselect
 {
    protected $_options;
 
