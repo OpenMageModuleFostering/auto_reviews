@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Auto_Reviews",
+    "name": "openmage-module-fostering\/auto_reviews",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Auto approves product reviews based on customer type.",
     "authors": [
