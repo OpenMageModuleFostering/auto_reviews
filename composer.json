@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Auto_Reviews",
+    "name": "OpenMageModuleFostering\/Auto_Reviews",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Auto approves product reviews based on customer type.",
     "authors": [
-    {
-        "name": "Exinent ",
-        "email": "developer@exinent.com"
-    }
-],
+        {
+            "name": "Exinent ",
+            "email": "developer@exinent.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
